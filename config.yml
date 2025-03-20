@@ -1,0 +1,7 @@
+storage:
+  db: "MySQL" # Supported: MySQL
+  credentials:
+    host: ""
+    user: ""
+    password: ""
+    database: ""
